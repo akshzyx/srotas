@@ -42,14 +42,13 @@ Use this command to generate demo users and torrents for testing purposes in a d
 ## <a name="updating"></a> 🖥️ Updating
 `php artisan git:update`
 
-
-## <a name="support"></a> ✨ Support UNIT3D
+<!--## <a name="support"></a> ✨ Support UNIT3D
 
 You can support our work if you are enjoying UNIT3D. Sponsors will recieve an email with a Discord invite link to UNIT3Ds Discord server which is used for support and more.
 
 <a href="https://polar.sh/HDInnovations"><picture><source media="(prefers-color-scheme: dark)" srcset="https://polar.sh/embed/subscribe.svg?org=HDInnovations&label=Subscribe&darkmode"><img alt="Subscribe on Polar" src="https://polar.sh/embed/subscribe.svg?org=HDInnovations&label=Subscribe"></picture></a>
 
-Some folks have asked me if it's possible to do a donation via Crypto. Yes!
+ folks have asked me if it's possible to do a donation via Crypto. Yes!
 ```
 Monero (XMR) - 85WrXRzmbF9fTp9UHLHhhEVeF5VBCHSen9suSvK4FkKqcyhXeikS1zM4u5gfa5gyQV9dS8yuoDwMGBJ1rQ8w1CWkJXN9kSo
 
@@ -70,9 +69,11 @@ USDT (ERC-20) - 0x24c79c41EEAd9d81203ee567fE4bA3a6c81374DB
 DOGE - DJ78fQspiu879y3adLbTZVSFABKhKqHE7B
 ```
 
+
 ## <a name="funding"></a> ✨ Funding issues and feature requests
 
 <a href="https://polar.sh/HDInnovations"><img src="https://polar.sh/embed/fund-our-backlog.svg?org=HDInnovations" /></a>
+-->
 
 ## <a name="thanks"></a> 🎉 Special Thanks
 
